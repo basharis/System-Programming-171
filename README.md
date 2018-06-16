@@ -34,6 +34,6 @@ The implementation of the server is based on the Reactor and Thread-Per-Client (
 
 Shahar Bashari
 
----
+## Disclaimer
 The assignment specifications do not belong to me, but to Ben Gurion University of the Negev.
 
