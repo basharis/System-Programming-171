@@ -23,14 +23,14 @@ The implementation of the server is based on the Reactor and Thread-Per-Client (
 
 
 ---
-## Programming Languages:
+## Programming Languages
 
 * C++ (Built with makefile)
 * Java (Built with Maven)
 * Python
 * SQL
 
-## Author:
+## Author
 
 Shahar Bashari
 
