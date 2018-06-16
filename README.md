@@ -1,4 +1,4 @@
-# System-Programming-171
+# System Programming 171 (SPL)
 
 My assignments from System Programming course (CS Bsc. Sem #3).
 
